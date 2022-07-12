@@ -3,10 +3,10 @@ SIMPLE PHISHIG TOOL THAT CONTAINS FULL OF FREE FIRE PHISHONG PAGE
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-3.0-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/kamanati/gmphish?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/kamanati/gmphish?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/kamanati/gmphish?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/kamanati/gmphish?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/kamanati/FF-XPHISH?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/kamanati/FF-XPHISH?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/kamanati/FF-XPHISH?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/kamanati/FF-XPHISH?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
